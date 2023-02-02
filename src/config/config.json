@@ -1,0 +1,11 @@
+{
+  "url": "mongodb://0.0.0.0:27017/Asociacion",
+  "llave": "TechnoSoft-Cruz",
+  "collections": {
+    "login": "login",
+    "socios": "socios",
+    "motos": "motos",
+    "deudas": "deudas",
+    "pagos": "pagos"
+  }
+}
